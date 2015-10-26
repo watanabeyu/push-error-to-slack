@@ -6,7 +6,7 @@ Only need to install and setting slack webhook.
 ## INSTALL
 1.Clone this repo into PKGPATH/push-error-to-slack  
 2.Copy APPPATH/config/pets.php from PKGPATH/push-error-to-slack/config/pets.php  
-3.Access incoming-webhook (https://my.slack.com/services/new/incoming-webhook/),get webhook url  
+3.Access incoming-webhook https://my.slack.com/services/new/incoming-webhook/ ,get webhook url  
 4.Set webhook url config
 
 ## APPPATH/config/config.php
