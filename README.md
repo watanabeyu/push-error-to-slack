@@ -1,7 +1,8 @@
 # ABOUT Push Error To Slack
 
-This package is send error to slack by webhook.  
-Only need to install and setting slack webhook.
+This fuelphp package is send error to slack by webhook.  
+Only need to install and setting slack webhook.  
+Automatically override \Fuel\Core\Error.
 
 ## INSTALL
 1.Clone this repo into PKGPATH/push-error-to-slack  
