@@ -4,7 +4,7 @@
  * FuelPHP package for the error push to slack
  *
  * @package   Push error to slack
- * @version   1.0
+ * @version   1.0.1
  * @author    Yu Watanabe
  * @link    https://watanabeyu.blogspot.com
  * 
